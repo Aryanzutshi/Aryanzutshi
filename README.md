@@ -13,5 +13,5 @@
 > github: Aryanzutshi
 > hackerrank: @zutshiaryan5
 > medium: @aryanzutshi
-> mailto: zutshiaryan [at] gmail.com
+> mailto: zutshiaryan5 [at] gmail.com
 ````
