@@ -1,17 +1,8 @@
+### Hello there 👋
 
-````bash
-> help --info
-> A book-loving smart contract auditor on a journey to master web and blockchain development
-> I mainly program in Solidity and Svelte.
-> Likes Reading books and auditing smart contracts.
-> Undergrad@CU batch of 2023 and studied computer Science engineering.
-````
+#### A Blockchain Developer by day ☼ and a Security Researcher by night ☾
 
-````bash
-> help --contact
-> linkedin:  Aryan Zutshi
-> github: Aryanzutshi
-> hackerrank: @zutshiaryan5
-> medium: @aryanzutshi
-> mailto: zutshiaryan5 [at] gmail.com
-````
+- ⚙️ I use daily: `.sol`, `.jsx`, `.html`, `.css`, `.rs`, `.tsx`
+- 🌍 I'm mostly active within the **Blockchain Community**
+- 💅 Designed: [EduX](https://eduxx.vercel.app/), [Green Arrow](https://green-arrow-final.vercel.app/), etc…
+- 💬 `ping` me about **Blockchain**, **Web3 Security**, **Low level Design**, **development**, **design thinking**
